@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Poputchik</string>
+    <string name="Maps">Построить маршрут по карте</string>
+    <string name="google_maps_key">AIzaSyDNyNzZp22g1uX68mNMgJpbme-SDYBxEj4</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="searchPoput">Найти попудчика</string>
+    <string name="openMap">Открыть карту</string>
+    <string name="zayac">Поймать попутку</string>
+</resources>
